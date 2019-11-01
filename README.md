@@ -20,3 +20,6 @@ The following are instructions on how to make a .json file as described above.
 8. If you want to order the coordinates in your .json file, use the 3D view to fly around the map and click on the small box (info_null) underneath each info_powerup_spawn you placed (do not select the powerups). If you are not concerned about order, select **Map > Entity Report...** in the topbar, and check the box that says **By class**, typing `INFO_NULL` into the box beneath it, and clicking on each entry one by one.
 9. As you click through each info_null, you will see a string in the bottom-right corner of Hammer that reads something like `0w 0l 0h @(0, 0, 0)`. The three values in the brackets are the X, Y and Z coordinates for that powerup. Add a new line inbetween the curly brackets of the .json for each info_null, specifying their order and coordinates like so: `"5-x": "123.0", "5-y": "-1337.0", "5-z": "0.0",` (Do not include a comma at the end if it is the last powerup).
 10. If the map has symmetry, add `"flipx": false, "flipy": false, "centerx": "0.0", "centery": "0.0",` before all the coordinates. Set the X and Y coordinates of the center of the map, and specify whether the map should flip by X or Y (mirror) or both (rotational).
+
+
+If you like your JSON work, feel free to send a pull request. One of our 24/7 full-time trainees will review it!
