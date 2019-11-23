@@ -1,4 +1,4 @@
 {
-    "flipx": true, "flipy": true, "centerx": "0.0", "centery": "0.0",
-    "1-x": "-216.0", "1-y": "216.0", "1-z": "-1024.0"
+    "flipx": true, "flipy": true, "centerx": "0", "centery": "0",
+    "1-x": "-216", "1-y": "216", "1-z": "-1024"
 }
