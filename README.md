@@ -7,4 +7,4 @@ This repository contains additional map support that the base version of Fortres
 
 [Learn how these files are constructed](https://fortressblast.miraheze.org/wiki/Powerup_locations)
 
-[Create your own files and upload them here](https://fortressblast.miraheze.org/wiki/Custom_powerup_locations)
+[Create your own files and upload them here](https://fortressblast.miraheze.org/wiki/Custom_powerup_spawns)
