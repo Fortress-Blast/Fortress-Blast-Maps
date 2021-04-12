@@ -5,6 +5,6 @@ This repository contains additional map support that the base version of Fortres
 
 [Download the Fortress Blast plugin](https://github.com/Fortress-Blast/Fortress-Blast)
 
-[Learn how these files are constructed](https://fortressblast.miraheze.org/wiki/Powerup_locations)
+Learn how these files are constructed: [Powerups](https://fortressblast.miraheze.org/wiki/Powerup_spawns) / [Gifts](https://fortressblast.miraheze.org/wiki/Gift_spawns)
 
 [Create your own files and upload them here](https://fortressblast.miraheze.org/wiki/Custom_powerup_spawns)
